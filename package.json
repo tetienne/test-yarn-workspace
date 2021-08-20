@@ -1,0 +1,18 @@
+{
+  "name": "test-yarn-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tetienne/test-yarn-workspace.git",
+  "author": "Thibaut Etienne <thibaut@etienne.pw>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@arkweid/lefthook": "^0.7.2",
+    "lerna": "^3.18.3",
+    "monorepo-run": "^0.4.0",
+    "pem": "^1.14.3"
+  }
+}
