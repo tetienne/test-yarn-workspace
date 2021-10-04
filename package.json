@@ -10,7 +10,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "@arkweid/lefthook": "^0.7.2",
+    "@arkweid/lefthook": "^0.7.7",
     "lerna": "^3.18.3",
     "monorepo-run": "^0.4.0",
     "pem": "^1.14.3"
