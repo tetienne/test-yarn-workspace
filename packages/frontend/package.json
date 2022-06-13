@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-        "lerna": "^3.18.3",
+        "lerna": "^5.1.2",
         "chart.js": "^3.4.0",
         "clipboard": "^2.0.6",
         "world-countries": "^2.0.0"
