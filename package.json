@@ -11,7 +11,7 @@
   ],
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.2",
-    "lerna": "^3.18.3",
+    "lerna": "^5.1.6",
     "monorepo-run": "^0.4.0",
     "pem": "^1.14.3"
   }
